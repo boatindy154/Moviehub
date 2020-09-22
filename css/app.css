@@ -25,10 +25,10 @@ font-family: 'Varela Round', sans-serif;
 }
 
 .tabbar {
-    background-color: rgb(32, 32, 32);
+    background-color: rgb(#f71cff)
 }
 .toolbar{
-    background-color:  rgb(32, 32, 32);
+    background-color:  rgb(#f71cff);
     
 }
 ons-carousel[fullscreen] {
